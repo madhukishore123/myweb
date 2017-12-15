@@ -1,5 +1,5 @@
 #! groovy
-hari prasad reddy
+hari prasad
 node{
  stage('Source'){
      git 'https://github.com/javahometech/myweb.git'
